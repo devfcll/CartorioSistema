@@ -1,0 +1,15 @@
+D:\projetos\csharp\cartorio\bin\Debug\net7.0\cartorio.exe
+D:\projetos\csharp\cartorio\bin\Debug\net7.0\cartorio.deps.json
+D:\projetos\csharp\cartorio\bin\Debug\net7.0\cartorio.runtimeconfig.json
+D:\projetos\csharp\cartorio\bin\Debug\net7.0\cartorio.dll
+D:\projetos\csharp\cartorio\bin\Debug\net7.0\cartorio.pdb
+D:\projetos\csharp\cartorio\obj\Debug\net7.0\cartorio.csproj.AssemblyReference.cache
+D:\projetos\csharp\cartorio\obj\Debug\net7.0\cartorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\csharp\cartorio\obj\Debug\net7.0\cartorio.AssemblyInfoInputs.cache
+D:\projetos\csharp\cartorio\obj\Debug\net7.0\cartorio.AssemblyInfo.cs
+D:\projetos\csharp\cartorio\obj\Debug\net7.0\cartorio.csproj.CoreCompileInputs.cache
+D:\projetos\csharp\cartorio\obj\Debug\net7.0\cartorio.dll
+D:\projetos\csharp\cartorio\obj\Debug\net7.0\refint\cartorio.dll
+D:\projetos\csharp\cartorio\obj\Debug\net7.0\cartorio.pdb
+D:\projetos\csharp\cartorio\obj\Debug\net7.0\cartorio.genruntimeconfig.cache
+D:\projetos\csharp\cartorio\obj\Debug\net7.0\ref\cartorio.dll
